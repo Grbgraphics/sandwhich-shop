@@ -64,22 +64,17 @@ button {
   color: #000000;
   padding: 10px 20px;
   border-radius: 5px;
-  transition: all 0.3s ease;
-}
-
-button:hover {
-  background-color: #ff9999;
-  border: 3px solid #000000;
-  color: #000000;
-}
+  }
 
 
 .order-button {
   margin-right: 10px;
+  font-family: 'Big Shoulders Text', cursive;
 }
 
 .call-button {
   margin-left: 10px;
+  font-family: 'Big Shoulders Text', cursive;
 }
 
 .link-to-book-wrapper {
