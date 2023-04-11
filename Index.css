@@ -44,6 +44,8 @@
     color: #ffffff;
     font-size: 4em;
     font-weight: 700;
+    text-shadow: 0 0 5px #000000;
+
 }
 
 .section-intro header {
