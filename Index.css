@@ -221,3 +221,18 @@ a.link-to-book:hover {
     }
 
 }
+
+.map-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    margin: 0 auto;
+    
+}
+
+.footer-logo {
+    display: flex;
+    justify-content: center;
+}
+
