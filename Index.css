@@ -127,8 +127,7 @@ a.link-to-book:hover {
   margin: 30px 20px;
   
 
-  display: flex;
-  flex-direction: column;
+  
 }
 
 
@@ -230,7 +229,7 @@ a.link-to-book:hover {
 }
 
 .map-container iframe {
-  width: 100%;
+  width: 60%;
   height: 100%;
 }
 
