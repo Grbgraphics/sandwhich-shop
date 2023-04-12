@@ -121,11 +121,16 @@ a.link-to-book:hover {
 }
 
 .flex-column-form {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-    margin: 30px 20px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin: 30px 20px;
+  
+
+  display: flex;
+  flex-direction: column;
 }
+
 
 
 .opening-time,
