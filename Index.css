@@ -217,13 +217,18 @@ a.link-to-book:hover {
 }
 
 .map-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    max-width: 40%;
-    margin: 0 auto;
-    
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+  height: 500px; /* or set a fixed height */
 }
+
+.map-container iframe {
+  width: 100%;
+  height: 100%;
+}
+
 
 
 
