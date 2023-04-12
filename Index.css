@@ -144,7 +144,16 @@ a.link-to-book:hover {
     display: block;
 }
 
-@media (min-width:577px) and (max-width: 800px) {
+@media (min-width:577px) and (max-width: 800px)   .nav-links {
+    display: none;
+  }
+
+  .burger {
+    display: block;
+    cursor: pointer;
+  }
+}
+ {
 
     .section-intro {
         height: 500px;
@@ -165,7 +174,9 @@ a.link-to-book:hover {
     }
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 576px)  .nav-links {
+    
+ {
     .section-intro {
         height: 300px;
     }
